@@ -18,6 +18,9 @@ services:
     environment:
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
       MYSQL_DATABASE: "heavenms"
+    ports:
+      - "3306:3306"
+    
 
 
     volumes:
