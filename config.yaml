@@ -199,7 +199,7 @@ server:
 
     #Ip Configuration
     HOST: 18.192.48.186
-    LOCALSERVER: true
+    LOCALSERVER: false
     GMSERVER: false
 
     #Other configuration
